@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Manu-N-S
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey there 👋🏻
 
-<!---
-Manu-N-S/Manu-N-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Minimalist
+Caffeine → Code
+⚙️ I'm currently learning : .c, .js, .html, .css, .py,............
+🌍 I'm mostly active within the Laravel Community
+🌱 Learning all about Open Source
+💬 Ping me about design, branding, laravel, development, design thinking
+📫 Reach me: manuns1122@gmail.com
+⚡️ Believes in Abstractions !
