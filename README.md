@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , I'm Manu N S<br>A self-taught passionate AI enthusiast from India 🇮🇳<br>I like saying the most with the least !<br>Caffeine → Code<br>📚 Currently, I am exploring NLP and reinforcement learning concepts<br>📫 Reach me: manuns1122@gmail.com<br>⚡️ Believes in Abstractions ! ....
+Hi , I'm Manu N S<br>A self-taught passionate AI/ML enthusiast from India 🇮🇳<br>I like saying the most with the least !<br>Caffeine → Code<br>📚 Currently, I am exploring NLP and reinforcement learning concepts<br>📫 Reach me: manuns1122@gmail.com<br>⚡️ Believes in Abstractions ! ....
 
 
 ## 🌐 Socials:
