@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi , I'm Manu N S<br>A self-taught passionate Software Developer enthusiast from India 🇮🇳<br>I like saying the most with the least !<br>Caffeine → Code<br>📚 Currently, I am exploring different domains to find where I suit in.<br>📫 Reach me: manuns1122@gmail.com<br>⚡️ Believes in Abstractions ! ....
+Hi , I'm Manu N S<br>A self-taught passionate Software Developer enthusiast from India 🇮🇳<br>I like saying the most with the least !<br>Caffeine → Code<br>📚 Currently, I am exploring different domains to find where I suit in.<br>📫
+I Like Python :)<br> Reach me: manuns1122@gmail.com<br>⚡️ Believes in Abstractions ! ....
 
 
 ## 🌐 Socials:
